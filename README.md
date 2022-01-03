@@ -30,3 +30,6 @@ The data preprocessing includes:
 - The Medical Question Pairs (MQP) Dataset, a list of patient-asked questions randomly sampled from a crawl of HealthTap
 - Patient-asked questions scraped from www.thecorrect.com
 
+## Findings
+### Insights From the Most Frequent Words
+PATIENTS: Most of the concerns from patients were pregnancy related. 
