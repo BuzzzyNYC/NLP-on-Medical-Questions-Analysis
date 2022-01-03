@@ -33,7 +33,39 @@ The data preprocessing includes:
 ## Findings
 ### Insights From the Most Frequent Words
 PATIENTS: Most of the concerns from patients were pregnancy related. 
-![image](https://user-images.githubusercontent.com/87792252/147958263-f47edbf1-af97-45ac-9d10-cffe9dde0857.png)
-
 HEALTHCARE PROVIDERS: Providers were mostly asking about the process of treating patients not about specific medical concerns. 
+
+### Terms That Occur Together
+HEALTHCARE PROVIDERS
+>
+  “Magnetic resonance” 
+  “computerized tomography” 
+  “atrial fibrillation” 
+  “myocardial infarction” 
+  “pertussis vaccine” 
+  “atrial flutter”
+>
+PATIENTS
+>
+  “Hello doctor”
+  “please help” 
+  “burning sensation” 
+  “birth control shot”
+  “need know”
+  “cure liver” 
+  “insulin diabetes”
+>  
+### Common Topics Asked by the Public 
+```
+Topics (k = 4)
+Women’s Reproductive Health
+Postnatal Care
+Diabetes Symptoms 
+General Internal Symptoms
+```
+
+
+
+
+
 
